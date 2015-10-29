@@ -2,6 +2,8 @@
 
 Library for parsing Clarion TPS files
 
+Licensed under the [Apache 2 License]
+
 WARNING : This software is based on Reverse Engineered TPS Files. As such, its probably incomplete and may mis-interpret data. It is no replacement for any existing Clarion tooling. Check the output files thoroughly before proceeding.
 
 This is a loose port of [tps-parse](https://github.com/ctrl-alt-dev/tps-parse/) for Java.  Many, many thanks to [Erik Hooijmeijer](https://blog.42.nl/articles/author/erik-hooijmeijer/) for his thorough analysis and implementaion
