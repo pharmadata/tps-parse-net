@@ -2,7 +2,7 @@
 
 Library for parsing Clarion TPS files
 
-Licensed under the [Apache 2 License]
+Licensed under the [Apache 2 License](https://raw.githubusercontent.com/ctrl-alt-dev/tps-parse/master/README.md)
 
 WARNING : This software is based on Reverse Engineered TPS Files. As such, its probably incomplete and may mis-interpret data. It is no replacement for any existing Clarion tooling. Check the output files thoroughly before proceeding.
 
