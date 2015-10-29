@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpsParse", "TpsParse\TpsParse.csproj", "{7C61AC6B-6092-4A57-ACAD-8C1097C366A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpsParse.Samples", "TpsParse.Samples\TpsParse.Samples.csproj", "{3522E9C2-50E8-4FA4-99E7-2825A1B8277E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C61AC6B-6092-4A57-ACAD-8C1097C366A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C61AC6B-6092-4A57-ACAD-8C1097C366A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C61AC6B-6092-4A57-ACAD-8C1097C366A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C61AC6B-6092-4A57-ACAD-8C1097C366A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3522E9C2-50E8-4FA4-99E7-2825A1B8277E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3522E9C2-50E8-4FA4-99E7-2825A1B8277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3522E9C2-50E8-4FA4-99E7-2825A1B8277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3522E9C2-50E8-4FA4-99E7-2825A1B8277E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
