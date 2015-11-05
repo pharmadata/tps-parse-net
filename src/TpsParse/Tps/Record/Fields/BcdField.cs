@@ -29,7 +29,7 @@ namespace TpsParse.Tps.Record.Fields
             var number = str.Substring(1);
             if (BcdDigitsAfterDecimalPoint > 0)
             {
-                var decimalIndex = number.Length - BcdLengthOfElement;
+                var decimalIndex = number.Length - BcdDigitsAfterDecimalPoint;
                 number = number.Substring(0, decimalIndex) + "." + number.Substring(decimalIndex);
             }
             return decimal.Parse((sign != "0" ? "-" : "") + number.TrimStart('0'));
